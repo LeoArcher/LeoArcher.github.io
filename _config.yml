@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: the LAB - Leo Archer & Beyond
-email: leoarcher37(at)@gmail.com_NO_SPAM
+title: L.A.B. - Leo Archer & Beyond
+email: leoarcher37(at)gmail.com_NOSPAM
 description: >- # this means to ignore newlines until "baseurl:"
   Leo Archer's adventure with machine learning
 baseurl: "" # the subpath of your site, e.g. /blog
