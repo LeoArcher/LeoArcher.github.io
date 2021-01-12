@@ -51,7 +51,9 @@ nav:
     - {title: about, description: about, url: '/about'}
 
           
-    
+# Google Analytics
+ga:
+    id: G-5E82R646ST
 
 # Pagination
 gems: [jekyll-paginate]
