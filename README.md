@@ -1,6 +1,3 @@
-# LeoArcher.github.io
 
-1/9
-准备好博客和B站帐号了。明天建起来，加油。
---
-最近申请博士不是很顺利。可能是自己专业技术还不够到位。想想……要不自己租机器做NLP写写博客吧。2021年加油。
+
+![world](https://wx2.sinaimg.cn/mw690/005MCs32gy1fxb45sem9qj3076076wey.jpg)
