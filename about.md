@@ -5,12 +5,10 @@ date: January 15, 2021
 ---
 <a href="/photos/" target="_blank"><img src="/AboutMe.jpg" width="150" height="150" alt="photos"/></a>
 
+
 <p>
-<h3> My Resumé</h3> 
-<a href="/Archer_DS/" target="_blank"> Another tech site I am building about Leo</a>    
-
-
-
+<h3> The Archer</h3> 
+<p>
 <div style="color:#FF6633">
 <p>	A learning machine.
 </p>
@@ -34,7 +32,7 @@ I just like to learn and let learn.
 
 <h3> PS </h3>   
 <p>
+<a href="/Archer_DS/"> Another tech site I am building about Leo</a>    
 My blog is built with 
-<a href="https://www.robotkang.cc"> the Robokang templet</a>
-Please check it if you like
+<a href="https://www.robotkang.cc">the Robokang templet</a>. Please check it if you like mine :)
 <p>
