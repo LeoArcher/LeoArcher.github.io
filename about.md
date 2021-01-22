@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ABOUT ME 
-date: January 13, 2021
+date: January 15, 2021
 ---
 <a href="/photos/" target="_blank"><img src="/AboutMe.jpg" width="150" height="150" alt="photos"/></a>
 
