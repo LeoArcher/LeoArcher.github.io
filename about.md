@@ -20,7 +20,6 @@ I just like to learn and let learn.
 <p>
 <h3> 其他</h3>   
 <p>
-
 虽然做了大半辈子的业余翻译，其实我并不喜欢用不同语言重复一句话，毕竟“浪费时间是最大的犯罪”。           
 
 
@@ -30,9 +29,7 @@ I just like to learn and let learn.
 </p>
 </div>
 
-<h3> PS </h3>   
+<h5> PS </h5>   
 <p>
-<a href="/Archer_DS/"> Another tech site I am building about Leo</a>    
-My blog is built with 
-<a href="https://www.robotkang.cc">the Robokang templet</a>. Please check it if you like mine :)
+Another <a href="/Archer_DS/"> tech site</a> I am building about Leo.
 <p>
